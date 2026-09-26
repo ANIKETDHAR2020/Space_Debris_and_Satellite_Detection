@@ -153,5 +153,7 @@ BSERC-YOLO11n/
 │
 ├── models/
 │   └── README.md
+├── PPT_FILE
+|    └──Space_Debris and Satellite_Detection YOLO11n-Based Object Detection Using Deep Learning.pdf
 │
 └── requirements.txt
